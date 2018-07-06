@@ -1,7 +1,6 @@
 {
   "projects": [
-    { "id": 1, "name": "GoMaut 2.0 (AT)" },
-    { "id": 2, "name": "GoMaut 2.0 (FR)" },
-    { "id": 3, "name": "GoMaut 2.0 (DE)" }
+    { "id": 1, "name": "middleware 1" },
+    { "id": 2, "name": "middleware 2" }
   ]
 }
