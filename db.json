@@ -2,5 +2,9 @@
   "projects": [
     { "id": 1, "name": "middleware 1" },
     { "id": 2, "name": "middleware 2" }
+  ],
+    "names": [
+    { "id": 1, "name": "Hosam" },
+    { "id": 2, "name": "Mohammed" }
   ]
 }
